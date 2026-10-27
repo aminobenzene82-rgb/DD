@@ -1,0 +1,8 @@
+{
+  "name": "Remix SNAPVAULT - Creator Digital Storefront",
+  "description": "High-octane digital bundles, editing presets, cinematic LUTs, 100K+ AI reels, and lifetime software suites for video creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Noto+Sans+Bengali:wght@700;800;900&family=Nunito:wght@400;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+.font-display {
+  font-family: 'Bowlby One', 'Noto Sans Bengali', cursive, sans-serif;
+  font-weight: 900;
+}
+
+.taka-symbol {
+  font-family: 'Noto Sans Bengali', sans-serif;
+  font-weight: 900;
+  display: inline-block;
+  margin-left: 1.5px;
+  -webkit-text-stroke: 0.04em currentColor;
+  transform: translateY(-0.02em);
+}
